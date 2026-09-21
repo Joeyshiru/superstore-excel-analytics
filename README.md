@@ -5,6 +5,7 @@
 
 ---
 An end-to-end executive sales and margin analytics solution built using **Microsoft Excel**, **Power Query**, **Power Pivot**, and **Data Analysis Expressions (DAX)**. This interactive dashboard transitions raw transactional data into a robust relational Data Model, enabling dynamic business KPI tracking, product tiering, and margin optimization analysis.
+---
 ![Superstore Dashboard](superstore_dashboard.png)
 ---
 
