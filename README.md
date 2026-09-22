@@ -59,3 +59,27 @@ Total Profit := SUM('Sample Superstore'[Profit])
 
 -- Dynamic Overall Profit Margin
 Overall Profit Margin := DIVIDE([Total Profit], [Total Revenue], 0)
+```
+### Phase 4: Executive Dashboard Interface
+Hierarchical View: Category and Sub-Category grouping with expand/collapse drill-down capability.
+
+Horizontal Navigation Bar: Styled Region, Segment, and Profit Tier slicers into multi-column horizontal button bars along the top panel.
+
+Dual-Axis Combo Visualization: Placed Total Revenue and Total Profit on a primary vertical axis (Clustered Columns) alongside Overall Profit Margin on a secondary vertical axis (Line Chart).
+
+## Business Insights & Key Findings
+Overall Portfolio Performance: Across all transactions, the business generated Ksh 2,297,200.86 in Total Revenue and Ksh 286,397.02 in Total Profit, establishing a baseline 12.47% Overall Profit Margin.
+
+High-Margin Drivers:
+
+Paper (43.39% Margin)
+
+Envelopes (42.27% Margin)
+
+Copiers (37.20% Margin)
+
+Margin Discrepancy & Loss Leaders:
+
+Tables (-8.56% Margin, -Ksh 17,725.48 Profit) and Supplies (-2.55% Margin) generate substantial volume but erode overall profitability.
+
+Strategic recommendation: Re-evaluate discounting structures and freight pricing on heavy furniture items.
